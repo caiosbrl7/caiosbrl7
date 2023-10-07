@@ -1,6 +1,6 @@
-  Hi, I’m Caio! 👋
-  I study Electrical Engineering at IFPB, João Pessoa 🇧🇷
-  I´m always learning and searching
+Hi, I’m Caio! 👋
+I study Electrical Engineering at IFPB, João Pessoa 🇧🇷
+I´m always learning and searching
   
 - 👀 I’m interested in programming and electronics!
 - ⚙️ I use: .cpp and sometimes .py
