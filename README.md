@@ -1,8 +1,10 @@
-- 👋 Hi, I’m @caiosbrl7
+  Hi, I’m Caio! 👋
+  I study Electrical Engineering at IFPB, João Pessoa 🇧🇷
+  I´m always learning and searching
+  
 - 👀 I’m interested in programming and electronics!
-- 🌱 I’m currently learning C++ and Python
-- 📫 How to reach me:
-- instagram: @caioul7
+- ⚙️ I use: .cpp and sometimes .py
+- 📫 How to reach me: https://www.instagram.com/caioul7/
 
 <!---
 caiosbrl7/caiosbrl7 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
