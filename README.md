@@ -5,7 +5,7 @@
 - 👀 I’m interested in programming and electronics!
 - 🧩 I´m always learning and searching
 - ⚙️ I use: .cpp and sometimes .py
-- 📫 How to reach me: https://www.instagram.com/caioul7/
+- 📫 How to reach me: https://www.instagram.com/caioul7/ and e-mail.
 
 <!---
 caiosbrl7/caiosbrl7 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
